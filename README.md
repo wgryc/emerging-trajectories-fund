@@ -15,3 +15,6 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 
 If you have any questions, please reach out to hello --at-- phaseai --dot-- com
 
+## Investment Advice - Disclaimer
+
+Everything in this repository is not investment advice, and Emerging Trajectories is not an investment advisor of any sort. Please do not invest simply based on our forecasts, as our LLM-based approach is high-risk and experimental. The ideas shared are for discussion purposes only and should not be construed as financial advice. Stock markets are inherently risky, and you should always consult with a qualified financial advisor before investing. We cannot be held responsible for any losses incurred based on our content, ideas, or opinions.
