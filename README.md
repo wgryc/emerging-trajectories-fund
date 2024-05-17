@@ -10,6 +10,7 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | ------------- | ------ | ------------------- | ------------- |
 | 1 May 2024    |  NG00  |              1.998  | [Link](https://emergingtrajectories.com/c/natural-gas-forecast-sept-30-2024) |
 | 9 May 2024    |  SHOP  |             59.613  | [Link](https://emergingtrajectories.com/a/pub/shopify-may-8-earnings) |
+| 17 May 2024   |  RKLB  |              4.239  | [Link](https://emergingtrajectories.com/a/pub/rocket-lab-forecast-may-2024-to-2025) |
 
 ## Contact Us
 
