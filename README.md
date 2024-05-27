@@ -12,7 +12,8 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | 9 May 2024    |  SHOP  |             59.613  | [Link](https://emergingtrajectories.com/a/pub/shopify-may-8-earnings) |
 | 17 May 2024   |  RKLB  |              4.239  | [Link](https://emergingtrajectories.com/a/pub/rocket-lab-forecast-may-2024-to-2025) |
 
-Note: we'll be updating the trackers above with sell prices too, but want to log here as close to real-time as possible. Sold NG00 (June '24 futurues) @ 2.792.
+- Note: we'll be updating the trackers above with sell prices too, but want to log here as close to real-time as possible. Sold NG00 (June '24 futurues) @ 2.792.
+- Doubled down on RKLB on 23 May 2027, with a cost basis of 4.270.
 
 ## Contact Us
 
