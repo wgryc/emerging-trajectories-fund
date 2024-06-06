@@ -6,14 +6,13 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 
 ## Trades
 
-| Date          | Ticker | Average Price (USD) | Justification |
-| ------------- | ------ | ------------------- | ------------- |
-| 1 May 2024    |  NG00  |              1.998  | [Link](https://emergingtrajectories.com/c/natural-gas-forecast-sept-30-2024) |
-| 9 May 2024    |  SHOP  |             59.613  | [Link](https://emergingtrajectories.com/a/pub/shopify-may-8-earnings) |
-| 17 May 2024   |  RKLB  |              4.239  | [Link](https://emergingtrajectories.com/a/pub/rocket-lab-forecast-may-2024-to-2025) |
-
-- Note: we'll be updating the trackers above with sell prices too, but want to log here as close to real-time as possible. Sold NG00 (June '24 futurues) @ 2.792.
-- Doubled down on RKLB on 23 May 2027, with a cost basis of 4.270.
+| Date          | Ticker | Average Price (USD) | Justification | Sold On | Average Price Sold (USD) |
+| ------------- | ------ | ------------------- | ------------- | ------- | ------------------------ |
+| 1 May 2024    |  NG00  |              1.998  | [Link](https://emergingtrajectories.com/c/natural-gas-forecast-sept-30-2024) | 22 May 2024 | 2.792 |
+| 9 May 2024    |  SHOP  |             59.613  | [Link](https://emergingtrajectories.com/a/pub/shopify-may-8-earnings) | . | . |
+| 17 May 2024   |  RKLB  |              4.239  | [Link](https://emergingtrajectories.com/a/pub/rocket-lab-forecast-may-2024-to-2025) | . | . |
+| 23 May 2024   |  RKLB  |              4.270  | See above. | . | . |
+| 6 June 2024   |  ZWU4  |            665.690  | [Link](https://emergingtrajectories.com/a/pub/2024-06-05_wheat_price_sept_2024_forecast) | . | . |
 
 ## Contact Us
 
