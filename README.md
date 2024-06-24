@@ -13,7 +13,7 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | 17 May 2024   |  RKLB  |              4.239  | [Link](https://emergingtrajectories.com/a/pub/rocket-lab-forecast-may-2024-to-2025) | . | . |
 | 23 May 2024   |  RKLB  |              4.270  | See above. | . | . |
 | 6 June 2024   |  ZWU4  |            665.690  | [Link](https://emergingtrajectories.com/a/pub/2024-06-05_wheat_price_sept_2024_forecast) | . | . |
-| 24 June 2024  |   TSG  |              2.595  | Based on [Copper Mining Analysis](https://emergingtrajectories.com/c/copper_mining_companies)] where TSG is lowest risk and highest potential return; see [TSG Deep Dive](https://emergingtrajectories.com/a/pub/taseko_mines_stock_analysis) as well |
+| 24 June 2024  |   TSG  |              2.595  | Based on [Copper Mining Analysis](https://emergingtrajectories.com/c/copper_mining_companies) where TSG is lowest risk and highest potential return; see [TSG Deep Dive](https://emergingtrajectories.com/a/pub/taseko_mines_stock_analysis) as well |
 
 ## Contact Us
 
