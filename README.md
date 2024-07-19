@@ -18,6 +18,10 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 
 _Note that each line represents "1 unit" of our investing strategy, so they are roughly equally weighted in terms of the amount we're investing._
 
+## Frameworks and Research
+
+Curious how we're scaling research with regards to the above? [Check out our framework](https://emergingtrajectories.com/a/pub/emerging-trajectories-investment-framework) and [companies we're tracking](https://emergingtrajectories.com/a/pub/et-fund-list-of-companies).
+
 ## Contact Us
 
 If you have any questions, please reach out to hello --at-- phaseai --dot-- com
