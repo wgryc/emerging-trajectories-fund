@@ -16,7 +16,7 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | 24 June 2024  |   TGB  |              2.595  | Based on [Copper Mining Analysis](https://emergingtrajectories.com/c/copper_mining_companies) where TSG is lowest risk and highest potential return; see [TSG Deep Dive](https://emergingtrajectories.com/a/pub/taseko_mines_stock_analysis) as well | . | . |
 | 1 July 2024   |  RKLB  |              4.545  | See above; big unexplained drops lead to doubling down (experiment). | 8 July 2024 | 5.065 |
 | 30 July 2024   |  SHOP  |              59.34  | As per 9 May 2024. | . | . |
-| 31 July 2024 | ASTS | 2.85 | $15 PUT options expiring on January 17, 2025 due to price rises and *lack of news*. | . | . |
+| 31 July 2024 | ASTS | 2.85 | $15 PUT options expiring on January 17, 2025 due to price rises and *lack of news*. | 2 August 2024 | 3.20 |
 
 _Note that each line represents "1 unit" of our investing strategy, so they are roughly equally weighted in terms of the amount we're investing._
 
