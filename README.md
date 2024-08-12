@@ -20,6 +20,7 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | 2 August 2024 | SHOP | 53.269 | Same as above. | 7 August 2024 | 65.00 |
 | 2 August 2024 | PAYO | 5.45 | n/a | 7 August 2024 | 6.00 |
 | 5 August 2024 | RKLB | 4.615 | See above. | . | . |
+| 12 August 2024 | ASTS | 6.00 | $20 PUT options expiring on January 17, 2025. | 12 August 2024 | 6.30 |
 
 _Note that each line represents "1 unit" of our investing strategy, so they are roughly equally weighted in terms of the amount we're investing._
 
