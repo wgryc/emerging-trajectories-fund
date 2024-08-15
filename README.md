@@ -21,7 +21,7 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | 2 August 2024 | PAYO | 5.45 | n/a | 7 August 2024 | 6.00 |
 | 5 August 2024 | RKLB | 4.615 | See above. | . | . |
 | 12 August 2024 | ASTS | 6.00 | $20 PUT options expiring on January 17, 2025. | 12 August 2024 | 6.30 |
-| 13 August 2024 | ASTS | 4.90 | $20 PUT options expiring on November 15, 2024. | . | . |
+| 13 August 2024 | ASTS | 4.90 | $20 PUT options expiring on November 15, 2024. | 15 August 2025 | 2.70 |
 | 13 August 2024 | RKLB | 5.116 | See above. | . | . |
 
 
