@@ -1,4 +1,4 @@
-# Emerging Trajectories Fund
+# Emerging Trajectories Fund (Experiment 1)
 
 [Emerging Trajectories](https://emergingtrajectories.com/) uses Large Language Models (LLMs) to generate geopolitical and economic forecasts. We use the forecasts and knowledge bases to drive our trading strategy.
 
