@@ -10,19 +10,19 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | ------------- | ------ | ------------------- | ------------- | ------- | ------------------------ |
 | 1 May 2024    |  NG00  |              1.998  | [Link](https://emergingtrajectories.com/c/natural-gas-forecast-sept-30-2024) | 22 May 2024 | 2.792 |
 | 9 May 2024    |  SHOP  |             59.613  | [Link](https://emergingtrajectories.com/a/pub/shopify-may-8-earnings) | 7 August 2024 | 67.00 |
-| 17 May 2024   |  RKLB  |              4.239  | [Link](https://emergingtrajectories.com/a/pub/rocket-lab-forecast-may-2024-to-2025) | . | . |
-| 23 May 2024   |  RKLB  |              4.270  | See above. | . | . |
+| 17 May 2024   |  RKLB  |              4.239  | [Link](https://emergingtrajectories.com/a/pub/rocket-lab-forecast-may-2024-to-2025) | 15 August 2024 | 5.43 |
+| 23 May 2024   |  RKLB  |              4.270  | See above. | 15 August 2024 | 5.43 |
 | 6 June 2024   |  ZWU4  |            665.690  | [Link](https://emergingtrajectories.com/a/pub/2024-06-05_wheat_price_sept_2024_forecast) | 5 August 2024 | 533.083 |
-| 24 June 2024  |   TGB  |              2.595  | Based on [Copper Mining Analysis](https://emergingtrajectories.com/c/copper_mining_companies) where TSG is lowest risk and highest potential return; see [TSG Deep Dive](https://emergingtrajectories.com/a/pub/taseko_mines_stock_analysis) as well | . | . |
+| 24 June 2024  |   TGB  |              2.595  | Based on [Copper Mining Analysis](https://emergingtrajectories.com/c/copper_mining_companies) where TSG is lowest risk and highest potential return; see [TSG Deep Dive](https://emergingtrajectories.com/a/pub/taseko_mines_stock_analysis) as well | 15 August 2024 | 2.20 |
 | 1 July 2024   |  RKLB  |              4.545  | See above; big unexplained drops lead to doubling down (experiment). | 8 July 2024 | 5.065 |
 | 30 July 2024   |  SHOP  |              59.34  | As per 9 May 2024. | 7 August 2024 | 65.00 |
 | 31 July 2024 | ASTS | 2.85 | $15 PUT options expiring on January 17, 2025 due to price rises and *lack of news*. | 2 August 2024 | 3.20 |
 | 2 August 2024 | SHOP | 53.269 | Same as above. | 7 August 2024 | 65.00 |
 | 2 August 2024 | PAYO | 5.45 | n/a | 7 August 2024 | 6.00 |
-| 5 August 2024 | RKLB | 4.615 | See above. | . | . |
+| 5 August 2024 | RKLB | 4.615 | See above. | 15 August 2024 | 5.43 |
 | 12 August 2024 | ASTS | 6.00 | $20 PUT options expiring on January 17, 2025. | 12 August 2024 | 6.30 |
 | 13 August 2024 | ASTS | 4.90 | $20 PUT options expiring on November 15, 2024. | 15 August 2025 | 2.70 |
-| 13 August 2024 | RKLB | 5.116 | See above. | . | . |
+| 13 August 2024 | RKLB | 5.116 | See above. | 15 August 2024 | 5.43 |
 
 
 _Note that each line represents "1 unit" of our investing strategy, so they are roughly equally weighted in terms of the amount we're investing._
