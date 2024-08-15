@@ -2,7 +2,11 @@
 
 [Emerging Trajectories](https://emergingtrajectories.com/) uses Large Language Models (LLMs) to generate geopolitical and economic forecasts. We use the forecasts and knowledge bases to drive our trading strategy.
 
-We'll be cleaning up this document in the coming weeks and months, but wanted to log our first trades and sources thereof. We'll also turn this into a bit of an 'index' approach for tracking purposes. Bear with us.
+This was an experiment we ran from May 1 until August 15, to explore how well using our LLM research agents to inform trading strategies would work. We updated our trades in this document when we made them and used GitHub specifically to be (a) transparent, and (b) show people that we weren't editing these trades in hindsight.
+
+We concluded that the experiment was a **Resounding Success** and are using the rest of August to take a step back and understand how to scale this strategy further. Over the course of 3.5 months, this strategy returned 20%. On average, each trade below returned 8.1%. We wrote a bit [about our investment playbook on our site](https://emergingtrajectories.com/a/pub/emerging-trajectories-investment-framework), and we'll be running a post-mortem on everything below before returning to trading in September.
+
+If you have any questions, please reach out to us [via our website](https://emergingtrajectories.com/contact).
 
 ## Trades
 
@@ -23,7 +27,6 @@ We'll be cleaning up this document in the coming weeks and months, but wanted to
 | 12 August 2024 | ASTS | 6.00 | $20 PUT options expiring on January 17, 2025. | 12 August 2024 | 6.30 |
 | 13 August 2024 | ASTS | 4.90 | $20 PUT options expiring on November 15, 2024. | 15 August 2025 | 2.70 |
 | 13 August 2024 | RKLB | 5.116 | See above. | 15 August 2024 | 5.43 |
-
 
 _Note that each line represents "1 unit" of our investing strategy, so they are roughly equally weighted in terms of the amount we're investing._
 
